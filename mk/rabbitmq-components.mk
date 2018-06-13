@@ -117,7 +117,7 @@ dep_jsx = hex 2.9.0
 dep_lager = hex 3.6.3
 dep_ranch = hex 1.5.0
 dep_ranch_proxy_protocol = hex 1.5.0
-dep_recon = hex 2.3.4
+dep_recon = hex 2.3.5
 
 dep_sockjs = git https://github.com/rabbitmq/sockjs-erlang.git 405990ea62353d98d36dbf5e1e64942d9b0a1daf
 
